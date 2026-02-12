@@ -36,7 +36,8 @@ print(x)
 
 ## Output:
 ![WhatsApp Image 2026-02-05 at 2 44 32 PM](https://github.com/user-attachments/assets/81bf3d66-f17c-4a0d-a032-63117932721f)
-![WhatsApp Image 2026-02-05 at 2 44 32 PM](https://github.com/user-attachments/assets/848a6715-125c-4491-a871-8d85eee6054e)
+<img width="776" height="126" alt="Screenshot 2026-02-12 143329" src="https://github.com/user-attachments/assets/8316dea8-ef70-4738-8f75-6a9e05da3f3b" />
+
 
 
 
